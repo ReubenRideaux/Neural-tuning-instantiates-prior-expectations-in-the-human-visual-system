@@ -2,7 +2,9 @@
 
 The MATLAB scripts/functions stored in this repository are a Key Resource for:
 
-Harrison, Bays & Rideaux (2022) Neural tuning instantiates prior expectations in the human visual system. *bioRxiv*
+Harrison, Bays & Rideaux (2023) Neural tuning instantiates prior expectations in the human visual system. *Nature Communications*
+
+DOI: https://doi.org/10.1038/s41467-023-41027-w
 
 This code can be used to analyze/generate data, in order to reproduce the results presented in the paper.
 
